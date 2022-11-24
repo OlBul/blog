@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hiking-blog/static/css/main.c15f0393.css",
+    "main.js": "/hiking-blog/static/js/main.f31bd27c.js",
+    "static/media/explore.jpg": "/hiking-blog/static/media/explore.a4d8eeb210f3960ab898.jpg",
+    "static/media/discount_1.jpg": "/hiking-blog/static/media/discount_1.00d85b0a959721126be5.jpg",
+    "static/media/timeBack.jpg": "/hiking-blog/static/media/timeBack.baf68488b25f180a0e9e.jpg",
+    "static/media/discount_2.jpg": "/hiking-blog/static/media/discount_2.468abfb7c0a9856c0acd.jpg",
+    "static/media/shadow.jpg": "/hiking-blog/static/media/shadow.cf02d2eec94fa086924b.jpg",
+    "static/media/articalesBack.jpg": "/hiking-blog/static/media/articalesBack.5f29bbbb6283352d7813.jpg",
+    "static/media/slick.svg": "/hiking-blog/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/hiking-blog/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/hiking-blog/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/hiking-blog/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/hiking-blog/index.html",
+    "main.c15f0393.css.map": "/hiking-blog/static/css/main.c15f0393.css.map",
+    "main.f31bd27c.js.map": "/hiking-blog/static/js/main.f31bd27c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c15f0393.css",
+    "static/js/main.f31bd27c.js"
+  ]
+}
